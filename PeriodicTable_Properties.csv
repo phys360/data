@@ -1,0 +1,21 @@
+Element,Symbol,Protons_Z,Isotope_A,Youngs_Modulus_GPa,Density_g_cm3,MeltingPoint_C,Toxic
+Lithium,Li,3,7,4.9,0.512,180.5,No (generally)
+Beryllium,Be,4,9,287,1.69,1287.0,Yes
+Sodium,Na,11,23,10,0.927,97.794,No (generally)
+Magnesium,Mg,12,24,45,1.584,650.0,No (generally)
+Aluminium,Al,13,27,70,2.375,660.32,No (generally)
+Silicon,Si,14,28,130–188,2.57,1414.0,No (generally)
+Calcium,Ca,20,40,20,1.378,842.0,No (generally)
+Titanium,Ti,22,48,116,4.11,1668.0,No (generally)
+Chromium,Cr,24,52,279,6.3,1907.0,Yes
+Manganese,Mn,25,55,198,5.95,1246.0,No (generally)
+Iron,Fe,26,56,211,6.98,1538.0,No (generally)
+Cobalt,Co,27,59,209,7.75,1495.0,Yes
+Nickel,Ni,28,58,200,7.81,1455.0,Yes
+Copper,Cu,29,63,130,8.02,1084.62,No (generally)
+Zinc,Zn,30,64,108,6.57,419.53,No (generally)
+Silver,Ag,47,107,83,9.32,961.78,No (generally)
+Cadmium,Cd,48,114,50,7.996,321.07,Yes
+Tin,Sn,50,120,50,6.99,231.93,No (generally)
+Gold,Au,79,197,78,17.31,1064.18,No (generally)
+Lead,Pb,82,208,16,10.66,327.46,Yes
